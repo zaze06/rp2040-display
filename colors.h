@@ -1,0 +1,2 @@
+#define TRANSPARENT 0x0000
+#define ORANGE 0xFA0F
