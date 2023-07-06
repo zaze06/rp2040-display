@@ -1,3 +1,5 @@
 cmake-build-*/
 build/
 .idea/
+build.bat
+UI-input.pdf
